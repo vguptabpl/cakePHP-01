@@ -1,12 +1,12 @@
 CakePHP
 =======
 
-[![CakePHP]
+[![Admin Section - Samle Code]
 
-This is sample code for frontend application and not full flashed. We have not used cake bake for created this. 
-Whereas its admin section, we used cake bake. 
+This is sample code for Admin section. This code is generated from cake bake console. 
 
-We have used Model and Behaviour in this for brief indtroduction.
+Cake bake is great and very rapid for doing such kind of Admin related functionality.
+
 
 [SQL]
 
