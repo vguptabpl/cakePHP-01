@@ -1,7 +1,7 @@
 CakePHP
 =======
 
-[![Admin Section - Samle Code]
+[Sample CakePHP - Admin Section]
 
 This is sample code for Admin section. This code is generated from cake bake console. 
 
